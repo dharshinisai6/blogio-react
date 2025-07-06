@@ -1,0 +1,196 @@
+{
+  "blogs": [
+    {
+      "id": "c994",
+      "title": "Clean Color, Clean Eating",
+      "category": "Food",
+      "description": "A  bowl full of colorful, freshness, and flavor! This vibrant Mediterranean Buddha Bowl is a feast for both the eyes and the taste buds. Packed with wholesome goodness — from crispy roasted chickpeas and creamy avocado to juicy grilled halloumi and crunchy purple cabbage — every bite offers a perfect balance of textures and nutrients. Drizzled with a silky tahini dressing and garnished with fresh herbs and edible flowers, this dish is not just healthy, but irresistibly beautiful. No additives, no artificial flavors — just real, clean ingredients brought together in a delicious, soul-satisfying way.",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1750344494/tmkwp7ld2wgem1xnmgjb.jpg",
+      "date": "06/23/2025"
+    },
+    {
+      "id": "8c1e",
+      "title": "Whisk & Wonder",
+      "category": "Food",
+      "description": "Your sweet escape into the world of delightful desserts. Here, every swirl of frosting, every glossy glaze, and every golden-baked crust tells a story of comfort and creativity. From simple home bakes to jaw-dropping patisserie, Whisk & Wonder is a celebration of sugar, passion, and presentation. Whether you're a beginner with a sweet tooth or a seasoned baker, you’ll find inspiration, tips, and stories that make your dessert journey deliciously magical.",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1750432498/wlkcpzfwpe1hikaay02u.jpg",
+      "date": "06/20/2025"
+    },
+    {
+      "id": "fb28",
+      "title": "Code Crumbs ",
+      "category": "Tech",
+      "description": "Welcome to CodeCrumbs — where small insights lead to big breakthroughs.\n\nIn a world overflowing with complex documentation and endless tutorials, CodeCrumbs is your refreshing space for bite-sized tech learning. We believe in less clutter, more clarity — every blog post is crafted to deliver one focused idea, concept, or skill in a way that’s easy to understand and quick to apply.\n\nWhether you're just starting with HTML or diving into frameworks like React or Django, we break down the intimidating stuff into simple \"crumbs\" — tiny, digestible pieces that build up your confidence and skills over time.\n\n🔹 Minimal jargon, maximum clarity\n🔹 Quick tips, code snippets, and smart visuals\n🔹 Real-world use cases, explained simply\n🔹 Perfect for students, self-learners, and busy developers\n\nFrom front-end to back-end, debugging to deployment — we’re here to guide your journey, one small but powerful step at a time. Follow the crumbs... and let’s learn smarter, not harder.",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1750502976/pahz4cw1kaucfzbc3sos.jpg",
+      "date": "06/21/2025"
+    },
+    {
+      "id": "c442",
+      "title": "Golden Hours & Quiet Trails",
+      "category": "Travel",
+      "description": "As the sun gently dips behind the horizon, a soft golden light spills across the mountaintops, bathing the landscape in warmth and wonder. A lone traveler stands quietly at the edge of a scenic overlook, eyes fixed on the breathtaking view below — a tranquil lake mirrors the snow-dusted peaks and the tall pine trees that surround it like silent guardians. The air is crisp, fresh, and filled with possibility.\n\nClad in a tan jacket and worn-in boots, a sturdy backpack slung over one shoulder, the traveler looks not only outward but inward — pausing between moments, between miles, between stories yet to unfold. The wind catches a strand of hair, the silence is interrupted only by the soft rustling of leaves and the distant call of a bird.\n\nThis isn’t just a destination — it’s a feeling. It’s that quiet space between where you were and where you’re going. It’s the reward of the climb, the serenity after motion, the joy of just being present in a world that rushes by too fast.\n\nThis image captures more than scenery. It holds a story of exploration, solitude, connection, and awe. It's a reminder that travel is not always about ticking off places, but about pausing long enough to let a place leave its mark on you.",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1750607378/vd9vhvcfyhimaihwxunh.jpg",
+      "date": "06/22/2025"
+    },
+    {
+      "id": "ba1a",
+      "title": "Chasing Winter",
+      "category": "Sports",
+      "description": "Wind howls through the pines as snowflakes spiral in the chilled mountain air. A single skier bursts into view, slicing through the fresh white trail with explosive grace and relentless speed. Dressed in a vibrant cold-weather suit, every movement sends a shimmer of powdered snow into the sky, like sparks flying from the earth itself.\n\nThis is more than a race — it’s a personal battle with gravity, cold, and terrain. The forest, quiet and majestic, watches as the skier carves a path of power through nature’s icy silence. Light filters through heavy clouds, golden rays bending between branches and bouncing off crystalline snow. Mist rises with each breath, and motion becomes a masterpiece.\n\nCross-country skiing isn’t just a test of endurance — it’s an experience of harmony between the human spirit and the winter wild. Every stride is poetry. Every breath, a promise to push further.\nIn this moment, framed by cinematic beauty and winter’s raw edge, one thing is clear — this trail belongs to the bold.",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1750773809/vmjonfjsrki674cnrdmv.jpg",
+      "date": "06/24/2025"
+    },
+    {
+      "id": "47b1",
+      "title": "Bagged in Style",
+      "category": "Fashion",
+      "description": "She walks with effortless confidence, her style speaking louder than words. Draped in a chic ensemble that blends modern trends with timeless elegance, she turns the sidewalk into her personal runway. In one hand, she carries crisp designer shopping bags — each one a trophy from a day well-spent exploring the season’s finest collections. Her outfit is a harmony of bold colors, subtle textures, and statement accessories that catch the eye without trying too hard. From the polished heels that echo against the pavement to the sunglasses that shield her gaze with a touch of mystery, every detail is curated — not just worn.\n\nThis isn’t just about fashion. It’s about self-expression, confidence, and the quiet power of showing up beautifully in the world. She’s not just keeping up with trends — she’s setting her own tone. And as she moves through the city, one step ahead and bags in tow, she reminds us that style is not just what you wear — it's how you wear it.",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1750873249/oimejklbbyn7175kqk8r.jpg",
+      "date": "06/25/2025"
+    },
+    {
+      "id": "7a42",
+      "title": "Steps Together",
+      "category": "Fitness",
+      "description": "As the world slowly wakes beneath a canvas of golden morning light, a father and his son move in quiet rhythm — their footsteps soft on the dew-covered path. There are no crowds, no distractions — just the pulse of the earth, the whisper of leaves in the breeze, and the gentle beat of two hearts jogging in sync.\n\nThe father leads not with instructions, but with presence. His steady pace offers guidance, not pressure. The son, wide-eyed and eager, matches each stride — not out of duty, but out of love. With every breath, every shared moment under the rising sun, something greater is being built: trust, connection, and the unspoken strength of showing up together.\n\nThis isn’t just about exercise. It’s about presence over perfection, motion over words, and memories made in the quietest moments. Morning jogs like these don’t just build stamina — they build lifelong bonds.\n\nIn a world that moves too fast, this daily ritual becomes a sanctuary — where a father teaches through doing, and a son learns not only to run, but to grow. One step at a time, side by side.",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1750874678/awox0clppzu4oji2e07s.jpg",
+      "date": "06/25/2025"
+    },
+    {
+      "id": "0ea5",
+      "title": "Rooted in Calm",
+      "category": "Fitness",
+      "description": "The world is still — not silent, but alive in its quietest form. Morning dew clings to blades of grass, sunlight pours gently through the trees, and the air carries a sense of fresh beginning. In the center of this calm, a young woman stands tall in a simple, earth-toned T-shirt and leggings, holding a yoga pose with grace and intention. There’s no rush. No distractions. Only breath, balance, and a deep awareness of the present moment.\n\nHer practice isn’t about perfection. It’s about presence — grounding her feet into the soft earth, feeling the stretch of her limbs, and aligning movement with mindfulness. The golden glow of early sunlight illuminates her form as if nature itself is observing in quiet admiration. This is not a staged performance but a deeply personal ritual — where self-care meets self-awareness.\n\nAround her, nature blooms with calm energy: birds stir in the distance, leaves shimmer in the light, and a thin veil of morning mist curls at the edges of the field. The setting is cinematic, but the peace is real. It’s a moment where fitness transforms into flow, and wellness becomes more than a word — it becomes a way of being.\n\nRooted in Calm invites readers into a space where health is not measured by intensity but by harmony. It's about showing up — not to compete, but to connect. With nature. With movement. With yourself.",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1750953980/htn3btoiovcelckls0s2.jpg",
+      "date": "06/26/2025"
+    },
+    {
+      "id": "548f",
+      "title": "Lady in Red",
+      "category": "Fashion",
+      "description": "In a world full of color, nothing commands attention like red. It’s the color of passion, power, and precision — and when worn boldly against a matching backdrop, it transforms from fashion into statement.\n\nRed on Red: Power in Monochrome captures the elegance and edge of a woman who knows exactly who she is. Dressed in a perfectly tailored red outfit — whether it’s a flowing gown, a sleek bodycon dress, or a sharply structured ensemble — she becomes a moving masterpiece of confidence and control. The red background doesn’t blend her in; it elevates her, making her presence magnetic.\n\nEvery fold of the dress catches light in just the right way. Her posture is poised, her expression fierce yet graceful. Whether she’s mid-step or perfectly still, the monochrome palette adds drama, balance, and focus. This isn’t about blending into trends — it’s about standing out through bold harmony.\n\nThe blog explores the emotional language of fashion — how color, shape, and attitude combine to tell a visual story. Red on red is not for the faint of heart. It’s for the woman who owns her narrative, who walks with intent, and who turns simplicity into impact.\n\nFrom high-fashion editorials to streetwear minimalism, this space is where fearless styling meets visual poetry. Because in a world that often plays it safe, red dares to speak louder — and says it all without a word.",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1751171980/glljrlaukrs9d1gxomm8.avif",
+      "date": "06/29/2025"
+    },
+    {
+      "id": "436e",
+      "title": "Life Above Earth",
+      "category": "others",
+      "description": "Ever wondered what it's like to live hundreds of kilometers above Earth, floating in microgravity while gazing down at oceans, continents, and storms from space? Life Above Earth takes you into the heart of the International Space Station — a marvel of global engineering and science.\n\nIn this blog, we explore the daily routines, challenges, and wonders of astronauts living aboard the ISS. From sleeping in zero gravity to conducting experiments that can't be done on Earth, each moment in orbit is a blend of science, adaptation, and awe.\n\nThrough stunning visuals and real astronaut experiences, readers will discover how meals are prepared in space, how time is tracked, how Earth looks from above, and what it truly means to call space “home.”\n\nWhether you’re a student, a dreamer, or a science enthusiast, this journey will open your eyes to how humanity is already living among the stars — one orbit at a time.",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1751181107/x9zqkdkqxy0i62wxzdk3.jpg",
+      "date": "06/29/2025"
+    },
+    {
+      "id": "1d14",
+      "title": "Chasing Lights Across the Arctic",
+      "category": "Travel",
+      "description": "There's something unexplainable about driving through the silent, snowy roads of the Arctic while the sky above dances in waves of emerald and violet. Chasing Lights Across the Arctic is more than a travel blog — it's an immersive journey into one of Earth’s most surreal natural wonders: the aurora borealis.\n\nThis article captures the essence of a winter road trip through northern Iceland, Norway, or the Lapland region, where each turn leads you closer to untouched beauty and unforgettable moments. You'll experience the thrill of seeing the aurora unexpectedly appear above your windshield, the joy of stopping your camper van under a glowing sky, and the serenity of watching the lights swirl in perfect silence.\n\nInside, we guide you through the best routes, ideal travel months, real-time aurora tracking apps, and cozy stays that turn this adventure into a dream fulfilled. Whether you're traveling in a rented camper, your own van, or simply dreaming about it, this blog brings you a cinematic view of the north — told through glowing skies, snowy roads, and the stillness that only Arctic nights can bring.\n\nLet the road guide you beneath the stars. Let the lights show you the way.",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1751181356/cgynguk4ov31044a8bvs.jpg",
+      "date": "06/29/2025"
+    },
+    {
+      "id": "e95e",
+      "title": "Backline Tech",
+      "category": "Tech",
+      "description": "We often think of \"the cloud\" as something abstract — an invisible force storing our files, hosting our apps, and powering our devices. But behind this digital illusion lies a tangible, humming, climate-controlled world of hardware and cables. In this blog, we uncover the real-world face of cloud technology — the massive data centers, glowing server halls, and technicians in static-proof gear who keep your online life alive.\n\nYou’ll step inside modern server rooms where rows of black towers blink in sync, cooled by industrial fans and managed through layers of access control. You’ll learn how edge computing hubs tucked inside city cabinets handle real-time traffic, how fiber-optic highways carry your Zoom calls under oceans, and how a simple request to \"open a webpage\" travels through an astonishing maze of metal and code.\n\nThrough high-resolution, real-world photography, this blog bridges the gap between what we see on screens and the hardware reality that powers it all. It’s a journey for developers, tech-curious readers, and digital professionals who want to understand what actually happens when we say, “It’s in the cloud.”\n\nBecause the internet isn’t magic — it’s metal, machines, and the minds that maintain them.\n",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1751182067/e5hcvws9pufqxcyhwivt.jpg",
+      "date": "07/02/2025"
+    },
+    {
+      "id": "5909",
+      "title": "The Rise of Urban Green Spaces",
+      "category": "others",
+      "description": "In the middle of our busiest cities, something remarkable is happening. Rooftops are turning into gardens. Abandoned lots are transforming into butterfly meadows. Office buildings now breathe with vertical forests on their walls. This isn’t just about beautifying — it’s about survival.\n\nThis blog explores the growing global movement toward urban green spaces — lush, intentional areas of greenery integrated into concrete jungles. You'll discover how architects, environmentalists, and city planners are working together to fight pollution, reduce heat, and improve mental health by designing green lungs in the heart of our cities.\n\nFrom Tokyo's living skyscrapers to Mexico City's vertical gardens and New York’s elevated parks, we uncover inspiring examples of cities that are rethinking space — not just for people, but for nature.\n\nWhether you’re a designer, urban enthusiast, traveler, or simply someone who craves calm in chaos, this post reveals how greener cities aren’t just coming — they’re already here.",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1751182340/njumixe6lskbimvbmnl0.jpg",
+      "date": "06/29/2025"
+    },
+    {
+      "id": "f5be",
+      "title": "Reviving the World’s Lost Recipes",
+      "category": "Food",
+      "description": "In a world of fast food and fusion, ancient recipes are quietly vanishing from kitchens and collective memory. But across the globe, chefs, grandmothers, and food historians are working to bring them back.\n\nThis blog takes readers on a flavorful journey into the past, exploring rare and nearly lost dishes from different cultures — meals once central to communities, ceremonies, and survival. From indigenous grains turned into stews to spices used in forgotten coastal cooking, you'll discover how these culinary treasures are being revived and reimagined.\n\nWe spotlight efforts to preserve food heritage: oral recipes passed down for generations, community cookbooks, and digital archives that safeguard these traditions. More than nostalgia, it's about reconnecting with identity, biodiversity, and cultural pride — one recipe at a time.\n\nWhether you’re a food lover, cultural explorer, or culinary creative, this post reveals how food isn’t just about flavor — it’s about memory, meaning, and the stories that rise with every simmering pot.",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1751182534/qkuqkgshpomrrlgsqrtf.jpg",
+      "date": "06/29/2025"
+    },
+    {
+      "id": "2925",
+      "title": "Lights, Lens & Longing",
+      "category": "others",
+      "description": "A young figure stands still beneath a canopy of neon lights, outside a glowing cinema marquee — a modern-day temple to storytelling. The street sparkles under reflections of electric pinks, cool blues, and vintage yellows, as if the night itself is soaked in cinematic magic.\n\nThis image captures more than a moment — it holds a feeling. A mix of nostalgia, curiosity, and wonder. It’s about the quiet thrill of arriving at a film that might change you. The buzz before the reel spins. The longing to lose yourself in someone else’s world, even just for two hours.\n\nLights, Lens & Longing celebrates the timeless connection between audience and cinema — not just the stories on screen, but the personal rituals and dreams wrapped around them. This blog dives into that very magic: how movies meet us at emotional crossroads, light up our imaginations, and give our quiet lives louder meaning.\n\nBecause sometimes, the most powerful scenes happen before the movie even begins — under the glow of anticipation.",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1751193006/agjkkyjtulcksuywzwwx.jpg",
+      "date": "06/29/2025"
+    },
+    {
+      "id": "79bd",
+      "title": "Liquid Thrills",
+      "category": "Sports",
+      "description": "Beneath the jet skis and paddleboards lies a whole world of underrated, adrenaline-packed water sports that most people have never even heard of. Glide Unknown brings you the thrill of discovery — from the glassy lagoons of Polynesia to hidden coves in the Mediterranean, where adventure meets mystery.\n\nIn this post, we spotlight hydroflight sports like flyboarding, where riders soar above water with jet-propelled boots; underwater hockey, played in deep pools with snorkels and fins; and stand-up pedal boarding, a blend of cycling and paddling across quiet coastal waters.\n\nYou'll meet athletes and travelers who’ve ditched the mainstream for these unique experiences — chasing freedom, adrenaline, and connection with nature in places far off the tourist map. With breathtaking visuals and real-world stories, Glide Unknown invites you to rethink what it means to explore the water.\nBecause adventure isn’t just found in the big waves. Sometimes, it hides just below the surface.",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1751193312/n7asxphsxpag2qx6hgf3.jpg",
+      "date": "06/29/2025"
+    },
+    {
+      "id": "8cb0",
+      "title": "Roads Less Posted",
+      "category": "Travel",
+      "description": "In the age of filters and geotags, travel has become more about the picture than the place. Roads Less Posted is for those who crave the unpolished, uncaptured, and unfiltered essence of travel — moments that don’t make it to social media, but stay forever in your soul.\n\nThis blog takes you off the typical tourist paths and into the forgotten alleys, hidden hill stations, rural markets, abandoned castles, and quiet train rides where true stories are born. Whether it's a misty village in the Himalayas, an old bookstore in a Croatian alley, or a sunflower field tucked behind a farmhouse in southern France — we go where the GPS doesn’t suggest.\n\nWith immersive storytelling, cultural insights, and visual journals, we bring you travel that’s not always glamorous but is always authentic. It’s a call to slow down, look deeper, and fall in love with the journey — not just the destination.\nIf you’re a traveler who lives for the unexpected turn, the quiet view, the accidental discovery, then Roads Less Posted is your next stop.",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1751193610/jiwhv3qgnc2x0i6srjbb.jpg",
+      "date": "06/29/2025"
+    },
+    {
+      "id": "dea5",
+      "title": "Urban Edge",
+      "category": "Fashion",
+      "description": "Style doesn’t have to shout — sometimes, it leans. Quite literally. In this striking street-style moment, a modern man leans effortlessly against a textured concrete wall, embodying a confident cool that's impossible to ignore. He wears a classic striped inner t-shirt, its monochrome lines adding clean structure and subtle rhythm to the ensemble. Draped over his shoulders is a rich red coat — tailored, sharp, and bold, serving as the unmistakable statement piece of the look.\n\nThe contrast between the linear tee and the vibrant outer layer is more than just aesthetic — it’s expressive. It tells a story of someone who knows fashion is not just about fabric, but attitude. The red coat doesn’t just protect from the chill — it commands attention, reflecting boldness, creativity, and modern elegance.\n\nPaired with slim-fit trousers and clean sneakers or boots, the look bridges the gap between casual and couture. Every detail — from the way the sleeves are rolled to the relaxed tilt of the body — speaks of ease and intention.\n\nThis isn’t just a man in an outfit. It’s a visual moodboard of confidence, contrast, and contemporary fashion — the kind of look that turns an ordinary corner into a runway.",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1751194438/kmn5wf1ewzqzz54559sj.jpg",
+      "date": "06/29/2025"
+    },
+    {
+      "id": "4a12",
+      "title": "Disconnected at Home",
+      "category": "others",
+      "description": "The living room is quiet. A warm lamp glows gently in the corner. Books lie open on the table, a cup of tea grows cold, and the world outside slowly fades into night. Yet, the person on the couch doesn’t notice. Their face is lit only by the cold blue glow of a smartphone — eyes tired, posture slouched, mind consumed by infinite scroll.\n\nDisconnected at Home isn’t just a title — it’s a modern reality for millions. In this blog, we explore the subtle and dangerous nature of phone addiction as it invades the most familiar and comforting spaces in our lives. The home, once a place for rest and connection, has become a silent battlefield of notifications, digital fatigue, and emotional detachment.\n\nThrough personal reflections, expert insights, and realistic visuals like this very scene, we peel back the curtain on how our devices quietly steal our time, attention, and peace — one notification at a time.\n\nWhether you’re seeking awareness, recovery tips, or just a mirror to modern life, this blog helps you rediscover presence in a world that's always online.",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1751465042/yl4eg0fivswwll0me9lu.jpg",
+      "date": "07/03/2025"
+    },
+    {
+      "id": "7fcb",
+      "title": " Stronger Together",
+      "category": "Fitness",
+      "description": "In an era where screens dominate our time and schedules pull families in every direction, Stronger Together reclaims one of life’s simplest yet most powerful truths: movement is connection.\n\nThis blog is a celebration of families choosing to grow stronger not just in body, but in spirit — side by side. Whether it’s a morning stretch in the backyard as sunlight pours through the trees, an impromptu set of jumping jacks before dinner, or a quiet moment of yoga shared between a parent and child, Stronger Together highlights the magic that happens when loved ones come together to move.\n\nWe believe fitness shouldn’t feel like a chore — it should feel like a memory in the making. That’s why every post we share includes playful workout ideas, realistic home-based routines, wellness reflections, and motivational stories from real families around the world.\n\nYou don’t need a gym. You don’t need a trainer. You just need a mat, a little space, and the people you love most. Here, exercise is more than reps and sets — it’s laughter, teamwork, and showing up for each other.\n\nStronger Together is where movement meets meaning. Because when you hold a pose while holding hands, when your kid joins your plank, or when you cheer each other through just one more rep — that’s when fitness becomes something far greater: a shared journey of strength, love, and belonging.\n\n",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1751469981/fdj7jwtoeutycyhsgmic.jpg",
+      "date": "07/02/2025"
+    },
+    {
+      "id": "51a4",
+      "title": "The Fashion of Culture",
+      "category": "Fashion",
+      "description": "Fashion isn't just fabric — it's identity, heritage, and expression. In Woven Worlds, we dive into the radiant intersection of fashion and culture, where centuries-old traditions meet modern style in a celebration of global diversity.\n\nThis feature captures the heart of cultural fashion — bold colors, intricate embroidery, and powerful silhouettes that tell stories without words. From the vibrant hues of Indian saris and the regal structure of African Ankara prints, to the flowing grace of Japanese kimonos and the layered beauty of Andean ponchos, each garment is a living piece of history.\n\nAgainst a backdrop of sunshine, joy, and movement, people from around the world gather in full cultural attire — not as costumes, but as powerful symbols of who they are. This isn’t a runway. It’s a tribute. A visual symphony of style, soul, and heritage stitched together with pride.\n\nStep into a world where fashion doesn’t follow trends — it honors legacies. Because when culture meets couture, what you wear becomes a timeless statement.",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1751470662/u3agvhsfve4a7yshwhy5.jpg",
+      "date": "07/02/2025"
+    },
+    {
+      "id": "77f3",
+      "title": "Behind the Screen",
+      "category": "Tech",
+      "description": "Behind the Screen dives deep into the real-world journey of Technical Support Engineers — the silent problem-solvers who keep systems running, clients calm, and chaos under control.\n\nThis blog explores everything from real troubleshooting stories, tech stack breakdowns, and how-to guides, to communication tips for handling frustrated users. Whether it’s configuring servers, debugging deployment issues, or managing support tickets during peak hours — it’s all here, raw and real.\n\nEach post offers practical insight into workflows, tools, mental frameworks, and career growth in tech support — including transitioning to DevOps, SRE, or customer engineering roles.\n\nIf you're in the trenches of user-facing tech, or looking to start your career solving real-world problems behind the screen — this blog gives you the playbook and perspective.",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1751473042/efclmogofqekbsflckac.webp",
+      "date": "07/02/2025"
+    },
+    {
+      "id": "614f",
+      "title": "Blades & Glory",
+      "category": "Sports",
+      "description": "Blades & Glory captures the raw intensity and beauty of ice hockey — a sport where precision meets power, and every second on the ice is a collision of skill, speed, and spirit.\n\nThis blog dives deep into the culture, strategy, and emotion behind the game. From last-second goals to the thunder of skates slicing across frozen surfaces, every post brings readers closer to the adrenaline-pumping reality of the rink.\n\nIt’s not just about stats and scores — it’s about the grit of defensemen, the vision of playmakers, and the heartbeat of a team striving for glory. Explore legendary games, rising stars, behind-the-scenes training, gear evolution, and fan-fueled traditions that make ice hockey more than just a game — it’s a way of life.\n\nWhether you're a die-hard fan, a curious newcomer, or an athlete yourself, Blades & Glory is your pass to the coldest, fastest, and fiercest sport on Earth.",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1751474777/eddmxnmwcc85yhhbdqfa.avif",
+      "date": "07/02/2025"
+    },
+    {
+      "id": "bfb6",
+      "title": "Mindcoded",
+      "category": "Tech",
+      "description": "Mindcoded is your guide to understanding the vast, evolving world of Artificial Intelligence — from the logic that powers algorithms to the ethical questions shaping our future.\n\nThis blog breaks down complex concepts into digestible insights, exploring everything from machine learning, neural networks, and natural language processing, to AI in daily life — like chatbots, autonomous vehicles, predictive systems, and digital art.\n\nBut it’s more than just code and tech talk. Mindcoded dives into the human side of AI — how it affects jobs, relationships, creativity, privacy, and society at large. Whether you're a developer training your first model, a business leader embracing AI tools, or simply curious about the intelligence driving your smartphone — this blog offers clarity, depth, and thought-provoking conversation.\n\nStay ahead of the curve with expert explainers, trend analysis, tool reviews, tutorials, and future forecasts — all through the lens of innovation and integrity.",
+      "imageUrl": "https://res.cloudinary.com/dxyym6z4s/image/upload/v1751475469/f6adpsp2gtqdvimnupxk.jpg",
+      "date": "07/02/2025"
+    }
+  ]
+}
